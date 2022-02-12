@@ -1,4 +1,2 @@
 # Contador
-# Contador
-# Contador
-# Contador
+#
